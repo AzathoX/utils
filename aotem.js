@@ -42,7 +42,6 @@
 
     Aotem.proportion = 100;
 
-    //版本封装
     Aotem.version = "aotem v1.1";
 
     Aotem.reset = function () {
